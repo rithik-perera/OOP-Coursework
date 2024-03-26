@@ -1,0 +1,7 @@
+Electronics
+productID: vvsd
+productName: vsdvsvsdv
+numItemsAvailable: 5
+price: 5
+brand: vsdvsdv
+warrantyPeriod: 2
